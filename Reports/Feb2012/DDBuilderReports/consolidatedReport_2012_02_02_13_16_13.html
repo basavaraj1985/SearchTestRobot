@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.param,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.param td,table.param th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.param th {vertical-align:bottom}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.param td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.param tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+
+<!-- 
+	end of head
+	      					-->
+
+<body>
+<p>
+<h1>Search Test Robot - results!</h1>
+</p>
+
+<p>
+<h2>Summary</h2>
+</p>
+<table border="2" cellspacing="0" cellpadding="2" class="param">
+<tr><th>Remark</th><th>Stat</th></tr><tr bgcolor="green"><td>Total number of tests passed</td><td>4</td></tr><tr bgcolor="red"><td>Total number of tests failed</td><td>14</td></tr><tr><td>Total number of tests executed</td><td>18</td></tr><tr><td>Pass percentage</td><td>22%</td></tr>
+</table>
+
+<p>
+<h2>Failure statistics Model</h2>
+</p>
+
+<table border="1" cellspacing="0" cellpadding="2" class="param">
+<tr><th>Failure Reason</th><th>Count</th><th>Component</th><th>Cases</th></tr><tr><td>After click on DD Title, Landing page is different from landing url mentioned in DD. landing url in DD - redcross.org acutal landing page - https://safeandwell.communityos.org/cms/index.php</td><td>1</td><td>DDBuilderUrlTemplate4.properties</td><td><br>red cross safe and well</br></td></tr><tr><td>XPATH of DD - //div[@class='tt t-001 t1 res sc sccs']//a[@class='yschttl'] - is not present in the response. May be DD is not triggered</td><td>6</td><td>DDBuilderUrl.properties</td><td><a href="file://localhost/Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate10_2012_02_02_13_16_13/failedQueries/XPATH_of_DD_____div__class__tt.txt">XPATH_of_DD_____div__class__tt.txt</td></tr><tr><td>XPATH of DD - //div[@class='tt t-002 res sc sccs t1']//a[@class='yschttl'] - is not present in the response. May be DD is not triggered</td><td>1</td><td>DDBuilderUrlTemplate2.properties</td><td><br>1up news</br></td></tr><tr><td>XPATH of DD - //div[@class='tt t-010 res sc sccs']/h3/a[@class='yschttl'] - is not present in the response. May be DD is not triggered</td><td>1</td><td>DDBuilderUrlTemplate10.properties</td><td><br>fbi</br></td></tr><tr><td>ERROR : exception occured during execution of validator. Exception Msg :- Null is not a valid XPath expression</td><td>2</td><td>DDBuilderUrlTemplate10.properties</td><td><br>fbi most wanted</br><br>fbi 10 most wanted</br></td></tr><tr><td>Landing url is not present in DD - //div[@class='tt t-001 t1 res sc sccs']//div[@class='url']</td><td>2</td><td>DDBuilderUrl.properties</td><td><br>recent earthquakes</br><br>earthquakes</br></td></tr><tr><td>ERROR : exception occured during execution of validator. Exception Msg :- null</td><td>1</td><td>DDBuilderUrlTemplate2.properties</td><td><br>Artist Direct Music News</br></td></tr>
+</table>
+
+</body>
+<!--
+
+passList=dear blank please blank,,castle Alexis Castle,,national geographic travel photos,,champagne,,
+failList=recent earthquakes,,earthquakes,,facebook boo,,facebook,,ae shows,,animated movies,,facebook boo,,facebook,,Artist Direct Music News,,1up news,,red cross safe and well,,fbi most wanted,,fbi,,fbi 10 most wanted,,
+
+-->
+</html>

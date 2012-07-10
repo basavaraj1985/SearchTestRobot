@@ -1,0 +1,40 @@
+========================================================
+Starting to test for : DDBuilderUrlTemplate4.properties
+There are 2 urls to test!
+http://search.yahoo.com/search?p=champagne____search.yahoo.com,,champagne,,
+http://search.yahoo.com/search?p=red+cross+safe+and+well____search.yahoo.com,,red cross safe and well,,
+Url Under test :: http://search.yahoo.com/search?p=red+cross+safe+and+well
+DD Title :: American Red Cross Safe and Well
+landingUrl :: redcross.org
+Url Under test :: http://search.yahoo.com/search?p=champagne
+14283 [pool-5-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:770] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+14284 [pool-5-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:770] Ignoring the following declarations in this rule.
+DD Title :: Champagne & Sparkling Wine Tips
+landingUrl :: ehow.com
+actual landing url after click on DD Title:: http://ehow.com/videos-on_1085_champagne-sparkling-wine-tips.html
+MoreLink Title :: More champagne & sparkling wine tips È
+actual landing url after click on DD Title:: https://safeandwell.communityos.org/cms/index.php
+ERROR : After click on DD Title, Landing page is different from landing url mentioned in DD. landing url in DD - redcross.org acutal landing page - https://safeandwell.communityos.org/cms/index.php
+Executed job - 14
+Reporting for job - 14
+actual landing url after click on More Link:: //ehow.com/videos-on_1085_champagne-sparkling-wine-tips.html
+items Title :: Types of Champagne
+actual landing url after click on item Link:: //ehow.com/video_2344070_different-types-champagnes.html
+items Title :: Serving Champagne
+actual landing url after click on item Link:: //ehow.com/video_2344073_serving-champagne-food.html
+items Title :: Opening Champagne
+actual landing url after click on item Link:: //ehow.com/video_2344072_opening-bottle-champagne.html
+items Title :: Storing Champagne
+actual landing url after click on item Link:: //ehow.com/how_7505087_store-champagne-bottles.html
+items Title :: Types of Champagne
+actual landing url after click on item Link:: //ehow.com/video_2344070_different-types-champagnes.html
+items Title :: Serving Champagne
+actual landing url after click on item Link:: //ehow.com/video_2344073_serving-champagne-food.html
+items Title :: Opening Champagne
+actual landing url after click on item Link:: //ehow.com/video_2344072_opening-bottle-champagne.html
+items Title :: Storing Champagne
+actual landing url after click on item Link:: //ehow.com/how_7505087_store-champagne-bottles.html
+Executed job - 13
+Reporting for job - 13
+Logging in : /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate10_2012_02_02_13_16_13/Report.txt
+Snapshots in /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate10_2012_02_02_13_16_13/failedQueries & /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate10_2012_02_02_13_16_13/passedQueries

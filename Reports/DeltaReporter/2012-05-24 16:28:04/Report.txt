@@ -1,0 +1,660 @@
+Report 1 : ./Reports/May2012/Autos/consolidatedReport_2012_05_24_00_50_10.html
+Report 2 : ./Reports/May2012/Autos/consolidatedReport_2012_05_24_02_22_02.html
+Report 1 has 628 queries.
+Report 2 has 1258 queries.
+----------------------------------------------------------------------------------------------------------------
+
+These 16 query/ies failed in report 1 but passed in report 2 ( FAIL --> PASS ) 
+gmc savana for sale
+used honda civic
+used hummer h2
+used hummer h1
+2008 infiniti g35 sedan for sale
+2005 infiniti q45 for sale
+2001 isuzu amigo for sale
+jaguar xke for sale
+jaguar cars for sale
+used kia sportage for sale
+nissan certified pre owned
+used nissan versa
+used nissan murano for sale
+used nissan titan for sale
+nissan altima for sale
+pre owned nissan altima
+
+
+These 212 query/ies passed in both runs ( PASS --> PASS ): 
+honda nsx for sale
+used gmc yukon
+used gmc acadia
+used gmc sierra
+used gmc terrain
+used gmc
+used gmc trucks
+gmc trucks for sale
+used gmc envoy
+used gmc trucks for sale
+gmc yukon for sale
+gmc savana van
+used gmc savana
+used honda cars
+used honda accord
+used honda crv
+used honda odyssey
+used honda pilot
+honda s2000 for sale
+used honda
+honda certified used cars
+honda civic for sale
+used honda civic for sale
+honda civic si for sale
+used honda accord for sale
+honda accord for sale
+honda crv for sale
+honda crv used
+used 2007 honda crv
+honda civic hybrid 2005 for sale
+honda civic si sedan for sale
+honda pilot for sale
+used honda pilot for sale
+hummer h2 for sale
+hummer h1 for sale
+used hummer
+h1 hummer for sale
+hummer for sale
+used hummer h3
+h2 hummer for sale
+hummer h3 for sale
+2006 hummer h1 alpha wagon for sale
+hummer h1 alpha for sale
+used hummer h1 for sale
+2006 hummer h1 alpha
+hummer h3t for sale
+used car hummer
+used hummer h2 dealers
+hummer h2 sut for sale
+hyundai equus
+used hyundai
+used hyundai santa fe
+used hyundai sonata
+used 2011 hyundai sonata
+preowned 2010 hyundai sonata
+2011 hyundai sonata hybrid for sale
+2011 hyundai sonata for sale
+used hyundai elantra
+used hyundai elantra for sale
+hyundai elantra for sale
+used 2009 hyundai santa fe limited
+used 2010 hyundai santa fe for sale
+used hyundai accent
+used infiniti
+used infiniti fx35
+used infiniti g35
+used infiniti qx56
+used infiniti coupe
+infiniti g35 coupe for sale
+used 2006 infiniti q45
+used infiniti m35
+used infiniti ex 35 2012
+qx56 white infiniti for sale
+infiniticoupes for sale
+infiniti m35x for sale
+used qx56 infiniti
+infiniti qx56 for sale
+used infiniti fx35 for sale
+used 2008 infiniti fx35
+infiniti fx35 for sale
+2006 infiniti q45 for sale
+2000 q45 inifinti for sale
+used isuzu
+isuzu trucks for sale
+isuzu vehicross for sale
+isuzu trooper for sale
+isuzu fuego for sale
+isuzu amigo for sale
+isuzu amigo 4x4 for sale
+used isuzu trucks for sale
+isuzu vehicross ironman edition for sale
+used lexus
+used lexus cars
+used lexus suv
+pre owned lexus
+used lexus rx 350
+certified pre owned lexus
+used lexus sc430
+used lexus for sale
+used lexus es 350 2006
+used lexus rx300
+used lexus es 350 2005
+preowned lexus
+used lexus rx
+lexus for sale
+lexus certified pre owned
+certified preowned lexus
+lexus is300 for sale
+certified lexus
+certified used lexus
+used lexus is 250
+lexus lfa for sale
+used jaguar
+1959 jaguar for sale
+jaguar for sale
+jaguar xj220 for sale
+1996 jaguar xj12 for sale
+used jaguar for sale
+jaguar ss100 for sale
+jaguar e type for sale
+jaguar xj6 for sale
+1969 jaguar e type for sale
+used 2004 jaguar s type for sale
+1974 jaguar e type for sale
+used 2004 jaguar s type
+84 jaguar xj6 for sale
+2001 jaguar s type for sale
+1966 jaguar xke convertables for sale
+used 2009 jaguar xj
+used jeep wrangler
+jeep wrangler for sale
+used jeep
+used jeep wrangler for sale
+jeep for sale
+used jeep cherokee
+jeep cherokee for sale
+jeep cj for sale
+used jeep liberty
+jeep scrambler for sale
+jeep cj7 for sale
+jeep wranglers for sale
+jeep rubicon for sale
+used jeep grand cherokee
+jeep comanche for sale
+jeep wagoneer for sale
+jeep grand cherokee for sale
+used jeep wranglers
+used jeep wranglers for sale
+used jeep for sale
+used jeep liberty for sale
+used jeep grand cherokee for sale
+used jeep cherokee for sale
+used jeep compass
+jeep grand cherokee srt8 for sale
+used jeep grand cherokee limited
+jeep grand cherokee used
+used jeep grand cherokee srt8 for sale
+used 1997 jeep grand cherokee
+used kia sorento
+used kia sportage
+used kia cars
+used kia forte koup ex
+used kia optima
+kia optima hybrid for sale
+used kia optima for sale
+2012 kia rio for sale
+2008 kia sportage 4x4 for sale
+kia sportage for sale
+2001 kia sportage for sale
+lamborghini for sale
+used lamborghini for sale
+lamborghini countach for sale
+used lamborghini
+lamborghini miura for sale
+lamborghini murcielago for sale
+lamborghini lm002 for sale
+lamborghini gallardo for sale
+lamborghini aventador for sale
+2003 lamborghini murcielago for sale
+lamborghini m002 for sale
+lamborghini 350 gt for sale
+1988 lamborghini countach for sale
+yellow lamborghini murcielago super voloce for sale
+used lamborgini aventador
+lamborghini 2000 for sale
+used mitsubishi eclipse
+2011 mitsubishi outlander sport
+mitsubishi eclipse for sale
+mitsubishi expo for sale
+used mitsubishi trucks
+mitsubishi lancer evolution mr for sale
+2006 mitsubishi lancer evolution for sale
+used mitsubishi outlander
+usedmitsubichi outlander
+used nissan altima
+nissan skyline for sale
+used nissan
+nissan 350z for sale
+used nissan murano
+used nissan cars
+used nissan trucks
+used nissan maxima
+nissan 240sx for sale
+nissan 300zx for sale
+nissan gtr for sale
+used nissan armada
+used nissan rogue
+nissan skyline r34 for sale
+used nissan pathfinder
+used nissan frontier
+used nissan xterra
+used nissan sentra
+
+
+These 400 query/ies failed in both runs ( FAIL --> FAIL )  : 
+civic lx
+gmc motorhome for sale
+used yukon
+used yukon denali
+used yukon for sale
+used acadia
+used gmc acadia for sale
+2012 gmc savana cargo
+honda used cars
+used hondas for sale
+used hondas
+2013 honda accord detroit
+used honda accords
+used honda accords for sale
+honda accords for sale
+2012 honda crv prices
+used honda crv for sale
+used crv
+honda crv on sale
+price of honda crv 2006 80 000 miles maintenance
+used crv honda
+2012 honda crv invoice price
+price of honda crv 2006 model
+honda crv for sale in houston
+2009 honda civic hybrid in san antonio tx
+2009 honda civic hybrid in houston tx
+04 honda civic hybrid 5 speek for sale in utah
+pre owned honda civic hybrid asheville nc
+honda civic si 2004 for sale in florida
+honda civic si for sale in nc
+honda civic si for sale in miami
+2000 honda civic si for sale
+2000 honda civic si for sale in dallas
+2012 honda civic si sedan concept
+hummers for sale
+used hummers for sale
+used hummers
+hummer sut for sale
+used military hummers for sale
+militery used hummers
+2012 hummer h4 price
+hummer h3t for sale in louisiana
+hummer h2 sut for sale in florida
+h2 hummer for sale in houston tx
+h1 hummer for sale tx
+used hummer for sale in canada
+hummer limo for sale
+hummer h3 luxury for sale
+hi hummer for sale
+buy h2 hummer 2008 in california
+usedhummersforsale com
+hummers for sale in zanesville ohio
+hummer dealer in washington state
+2010 hummer h3 alpha for sale
+h1 hummer alpha 2006 for sale
+nj h1 hummer for sale
+hummer h3t luxury for sale
+h2 hummer for sale in kansas
+h2 hummer for sale in arkansas
+h 2 hummers for sale in ca
+2008 hummers for sale in st louis
+used hummer h2 new jersey
+hummers h3 pick up for sale
+hyundais elantra detroit
+used sonata
+hyundai sonata price
+used 2006 hyundai sonata gl for sale in columbus ohio
+hyundai sonata usados2011
+sonata 2011 price
+osed 2011 sonata
+2010 hyundai sonata gls silver in nj
+2011 sonata 92402
+used hyundai sonata for sale
+used hyundai sonata columbus ohio
+used 2011 sonata
+used 2008 hyndai sonatas charlotte nc
+kell blue book prices for 2012 hyundai sonata
+hyundai sonata orlando
+2012 hyundai sonata charlotte
+2011 hyundia sonata gls for sale in oklahoma
+2011 hyuandisonatas at m j sullivan new london ct
+2010 hyundai sonata for sale
+hyundai elantra 2012 price
+hyundai elantra price
+hyndai elantra for sale wichita kansas
+hyandai ca elantra gl pricing
+2004 hyundai elantras for sale
+hyundai elantra 2012 prices
+any elantras in nc precertified 2011 red
+used hyundai elantra for sale in memphis tn
+price of a hyundai elantra
+hyundai elantra in washington state
+hyundai elantra 2012 reviews in nj
+hyundai elantra 2009 for sale in orlando
+hyundai elantra 1996 for sale in jamaica
+used hyundai santa fe for sale in west virginia
+kelly blue book value for 2000 hyundai accent
+hyundai veloster price
+veloster price
+used hyundai veloster for sale in houston tx
+hyundai veloster cincinnati oh
+2012 hyundai veloster for sale
+2012 hyundai veloster turbo price
+2012 hyundai veloster price
+used infiniti qx4 dallas
+white 2008 infiniti g35x in illinois
+white 2008 infiniti m35x in illinois
+pre certified infiniti m37
+bay area used infiniti g35
+used infiniti g 35 for sale in louisiana louisiana
+infiniti g37 sport for sale in illinois
+2004 infiniti q45 for sale in st louis mo
+used infiniti g35 for sale in houston tx under 13000
+used infiniti g35 coupes
+midnight garnet g37 infiniti 2010 ca
+infiniti qx56 in arizona
+infiniti jx price
+infiniti fx35 used car
+bay area used infiniti
+used infiniti qx4 plano
+used infiniti g35 for sale in houston tx
+toronto used 2000 infiniti q45
+infiniti qx 56 2008 memphis tn
+infiniti g 35 coupe 2004 south florida
+qx56 used
+infinity qx56 st louis mo
+2011 infiniti qx56 for sale in houston
+used infinity suv fx35
+infinity fx35 en chicago venta
+2011 infiniti fx35 for sale in st louis mo
+pre owned infiniti fx35 st louis mo
+infiniti fx35 used houston tx
+isuzu crosswind price
+isuzu trooper diesel for sale
+isuzu dump truck for sale
+isuzu crosswind for sale
+second hand isuzu xt xl for sale
+isuzu dmax price
+isuzu truck for sale landscaping
+isuzu rodeo sports for sale in las vegas
+used isuzu trucks sale by owner
+isuzu via cross for sale
+used isuzu trucks in houston
+isuzu pup for sale
+isuzu pup diesel for sale nc
+isuzu d max 4x4 second hand
+used isuzu trucks san antonio
+used 4 wheel drive isuzu tropper memphis tn
+isuzu pup diesel for sale
+lexus used cars
+lexus lfa price
+used lexus is
+lexus lf lc price
+lexus used car sale in kent wa
+used lexus 250
+white 2003 lexus es300 for sale calif
+lexus es300 for sale in gainesville
+2003 lexus es300 for sale mn
+used land rover
+land rover defender for sale
+land rover for sale
+land rovers for sale
+land rover defender 110 for sale
+land rover defender 90 for sale
+land rover crew cab for sale in dorset
+land rover series for sale
+used land rover discovery
+used land rover for sale
+land rover series 2a for sale
+classic land rovers for sale
+land rover freelander for sale
+used land rovers
+land rover 110 for sale
+classic land rover for sale
+land rover defender 110 for sale us
+discovery land rover 2003 for sale in canada
+1997 land rover defender for sale
+land rover series 2a for sale in the us
+land rover lr4 for sale
+1997 land rover defender craigslist
+refurbished land rover defender
+land rover for sale houston tx
+land rover autobiography ultimate edition 2012 price
+used land rover discovery for sale
+old land rover
+land rover series 3 for sale
+land rover defenders for sale
+craigslist used land rover sale
+cheap used land rovers
+2011 land rover evoque price
+1997 land rover defender craigslist seattle
+vintage land rover
+old land rovers for sale
+used land rovers montana
+land rover range rover supercharged 2011 for sale
+land rover pickup for sale
+land rover freelander 2005 for sale
+land rover freelander2003 for sale
+land rover evoque price
+land rover discovery for sale
+land rover defenders for sale in the usa
+land rover d90 for sale
+land rover 95 for sale
+land rover 2009 price
+japan import use land rover for sale
+interested in a 2008 lr3 land rover
+discovery land rover for sale
+craigslist list land rover defender
+costs of 2004 land rover
+2008 land rover lr3 for sale in portland
+1997 land rover defender le for sale
+1975 land rover defender 90 for sale
+1960 land rover for sale
+freelander 2004 cars for sale
+range rover evoque price
+used range rover
+range rover for sale
+used range rover for sale
+used range rovers for sale
+used range rovers
+range rovers for sale
+2012 range rover evoque pricing
+2012 range rover evoque price
+range rover classic
+2006 range rover in houston texas
+used range rover sport
+range rover for sale birmingham al
+find used range rover defender 90
+2008 range rover in houston
+1995 range rover lwb for sale
+used range rover evoque
+range rover evoque for sale
+2011 range rover evoque price
+second hand range rovers on sale
+2009 range rover silver with kit for sale in chicago ill
+range rover sport for sale
+2006range rover sports for sale in houston tx
+range rover used
+2009 2010 range rovers for sale in dallas ft worth area
+1995 range rover for sale
+range rover evoke 2011 for sale
+range rover defender for sale
+2011 range rover sport in alabama
+2010 range rover sport dallas
+2006 range rover sport supercharged for sale
+2005 range rovers for sale
+1990 range rover county for sale
+used range rovers for sale columbia sc
+range rover used montana
+santa monica range rover
+range rover for sale near hawthorne ca
+price of 2008 range rover sport limited edition
+pre owned range rovers for sale in phila pa
+2009 2010 range rover hse lux for sale in dfw area
+2004 range rover for sale
+1990 range rover for sale
+white range rover 2011 michigan
+used range rover sport for sale
+used range rover for sales omaha ne
+used range rover 2003 for sale
+range rover sports used cars
+range rovers or sale in appleton
+range rover sport 2008 salvage for sale with asking price
+range rover prices
+range rover price
+range rover p38 or sale
+range rover hse for sale miami
+range rover 2005 for sale ca
+price of range rover 2012
+preowned range rover
+pre owned range rovers
+cost of range rover sport
+classic range rover
+2012 range rover price
+2003 used range rover for sale
+2003 range rover used for sale
+2003 range rover for sale in houston tx
+2003 range rover for sale in chicago illinois
+1972 range rover sale
+1972 range rover for sale
+used jaguars for sale
+jaguar e types for sale
+jaguar cx16 price
+1994 jaguar vanden plas craigslist
+1953 classic jaguar car sales
+1994 jaguar xj6 craigslist
+2006 jaguar s type r for sale in fremont ca
+1960 mark 9 restored jaguar for sale
+for sale 1967 jaguar xke
+criagslist jaguar xke
+privately own jaguars xjl 2011 for sale
+jaguar xke roadster for sale
+jaguar xke for sale michigan
+jaguar xjc for sale
+jaguar xf for sale by owner
+jaguar xf convertable price
+jaguar e type philippines for sale
+used jeeps for sale
+jeeps for sale
+used jeeps
+willys jeep for sale
+old jeeps for sale
+military jeeps for sale
+owner type jeep for sale
+cj7 jeeps for sale
+cj jeeps for sale
+used jeep rubicon for sale
+jeeps for sale in texas
+jeep brute for sale
+willys jeeps for sale
+jeep willys for sale
+2004 black jeep grand cherokee for sale
+2000 grand cherokee 4x4 for sale
+1995 grand cherokee orvis craigslist
+08 jeep grand cherokee laredo for sale near dallas tx
+used grand cherokee for sale in dallas
+used 2011 jeep grand cherokee ma
+jeep grand cherokee overland 2002 for sale
+hatchback door grand cherokee laredo 2004 sale
+2011 jeep grand cherokee for sale near 43065 in ohio
+2005 jeep grand cherokee 4x4 for sale 71913
+used jeep grand cherokee srt8 ma
+used grand cherokee
+used grand cherokee san diego
+used grand cherokee for sale
+used 2011 jeep grand cherokee limited for sale
+used 2010 jeep grand cherokee srt
+used 2006 jeep grand cherokee srt8 for sale
+craigslist jeep wrangler rubicon for sale
+jeep wrangler rubicon for sale
+craigslist 2006 jeep wrangler rubicon for sale
+1995 jeep wrangler rubicon for sale
+2012 jeep wrangler rubicon unlimited for sale
+used kia soul
+kia soul price
+used kia forte in nashville tn
+2012 kia optima price
+2011 kia optima price
+2011 kia optima orlando
+kia optima in dyersburg tn
+kia rio 2012 price
+used kia rio
+used kia rio for sale
+used kia sportage in el paso tx
+blue book value of 2011 kia sportage ex
+used kia sportage santa rosa ca
+2011 kia sportage lx awd for sale
+2011 kia sportage for sale cincinnat oh area
+lamborghini aventador price
+lamborghini sale
+lamborghini gallardo price
+lamborghini cheetah for sale
+lamborghini murcielago for sale marbella
+lamborghini murcielago for sale in marbella
+lamborghini versace for sale
+for sale lamborghini miura
+salvage lamborghini gallardo on sale
+for sale lamborghini countach
+2003 lamborghini murcielago price
+lamborghinikit cars for sale
+damaged used lamborghini countach for sale
+2008 lamborghini gallardo superleggera for sale
+1980 lamborghini countach for sale
+lamborghini countachlp 400s prices
+cheap lamborghini
+buy 1986 lamborghini jalpa
+wrecked lamborghini for sale
+lamborghini reventon price
+lamborghini for sale super rare limited edition
+lamborghini embolado price
+lamborghini gallardo fire for sale
+gallardo for sale
+mitsubishi adventure price list
+mitsubishi l200 usado
+cars auto ru cars used mitsubishi
+mitsubishi adventure for sale
+used mitsubishi canter sale lagos
+used mitsubishi l200 for sale in sri lanka
+mitsubishi evo for sale
+mitsubishi lancer evolution for sale in ohio
+lancer evolution for sale in trinidad
+2005 lancer evo for sale
+lancer evolutions for sale in ohio
+lancer evolution for sale
+2006 lancer evolution mr in el paso texas
+used outlander
+2000 mitsubishi eclipse spyder gt near greenwood sc
+2004 mitsubishi galant es for sale in warner robins ga
+nissan leaf price
+cheap nissan
+nissan juke price
+nissan gtr price
+2011 nissan juke price
+1997 nissan pickup 4x4 for sale
+nissan versa price
+nissan used cars for sale
+nissan used cars
+nissan skyline for sale usa
+used nissan quest
+nissan altima se r for sale
+----------------------------------------------------------------------------------------------------------------
+Report 1 : ./Reports/May2012/Autos/consolidatedReport_2012_05_24_00_50_10.html
+Report 2 : ./Reports/May2012/Autos/consolidatedReport_2012_05_24_02_22_02.html
+
+++++++++++++++++++++
+   RUN1     RUN2  
+    212P       212P
+             0F 
+    815F       400F
+             16P 
+++++++++++++++++++++
+
+**************************R E P O R T**************************
+% PASS then PASS again - 100.0(212)
+% PASS then FAIL       - 0.0(0)
+
+% FAIL then PASS       - 3.846154(16)
+% FAIL then FAIL again - 96.15385(400)
+**************************R E P O R T**************************

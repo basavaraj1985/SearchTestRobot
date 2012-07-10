@@ -1,0 +1,29 @@
+========================================================
+Starting to test for : DDBuilderUrlTemplate2.properties
+There are 2 urls to test!
+http://search.yahoo.com/search?p=Artist+Direct+Music+News____search.yahoo.com,,Artist Direct Music News,,
+http://search.yahoo.com/search?p=1up+news____search.yahoo.com,,1up news,,
+9013 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1372] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+9016 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1372] Ignoring the following declarations in this rule.
+9017 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1573] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+9017 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1573] Ignoring the following declarations in this rule.
+9024 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:3709] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+9024 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:3709] Ignoring the following declarations in this rule.
+9028 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:4536] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+9029 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:4536] Ignoring the following declarations in this rule.
+9031 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:4819] Error in expression. Invalid token "=". Was expecting one of: <S>, <COMMA>, "/", <PLUS>, "-", <HASH>, <STRING>, ")", <URI>, "inherit", <EMS>, <EXS>, <LENGTH_PX>, <LENGTH_CM>, <LENGTH_MM>, <LENGTH_IN>, <LENGTH_PT>, <LENGTH_PC>, <ANGLE_DEG>, <ANGLE_RAD>, <ANGLE_GRAD>, <TIME_MS>, <TIME_S>, <FREQ_HZ>, <FREQ_KHZ>, <DIMENSION>, <PERCENTAGE>, <NUMBER>, <FUNCTION>, <IDENT>.
+9031 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:4824] Error in style rule. Invalid token "opacity". Was expecting one of: "}", ";".
+9062 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:4824] Ignoring the following declarations in this rule.
+9066 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:5124] Error in expression. Invalid token "=". Was expecting one of: <S>, <COMMA>, "/", <PLUS>, "-", <HASH>, <STRING>, ")", <URI>, "inherit", <EMS>, <EXS>, <LENGTH_PX>, <LENGTH_CM>, <LENGTH_MM>, <LENGTH_IN>, <LENGTH_PT>, <LENGTH_PC>, <ANGLE_DEG>, <ANGLE_RAD>, <ANGLE_GRAD>, <TIME_MS>, <TIME_S>, <FREQ_HZ>, <FREQ_KHZ>, <DIMENSION>, <PERCENTAGE>, <NUMBER>, <FUNCTION>, <IDENT>.
+9067 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:5129] Error in style rule. Invalid token "opacity". Was expecting one of: "}", ";".
+9067 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:5129] Ignoring the following declarations in this rule.
+9070 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:6125] Error in expression. Invalid token "=". Was expecting one of: <S>, <COMMA>, "/", <PLUS>, "-", <HASH>, <STRING>, ")", <URI>, "inherit", <EMS>, <EXS>, <LENGTH_PX>, <LENGTH_CM>, <LENGTH_MM>, <LENGTH_IN>, <LENGTH_PT>, <LENGTH_PC>, <ANGLE_DEG>, <ANGLE_RAD>, <ANGLE_GRAD>, <TIME_MS>, <TIME_S>, <FREQ_HZ>, <FREQ_KHZ>, <DIMENSION>, <PERCENTAGE>, <NUMBER>, <FUNCTION>, <IDENT>.
+9070 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:6131] Error in style rule. Invalid token "opacity". Was expecting one of: "}", ";".
+9071 [pool-3-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:6131] Ignoring the following declarations in this rule.
+Executed job - 8
+Reporting for job - 8
+ERROR : XPATH of DD - //div[@class='tt t-002 res sc sccs t1']//a[@class='yschttl'] - is not present in the response. May be DD is not triggered
+Executed job - 9
+Reporting for job - 9
+Logging in : /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate3_2012_02_02_13_16_13/Report.txt
+Snapshots in /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate3_2012_02_02_13_16_13/failedQueries & /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate3_2012_02_02_13_16_13/passedQueries

@@ -1,0 +1,145 @@
+<html>
+<head>
+<title>Delta Analysis Report</title>
+<style type="text/css">
+table caption,table.info_table,table.param,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.param td,table.param th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.param th {vertical-align:bottom}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.param td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.param tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+
+
+<body>
+<p id="top">
+<h1>Delta Analysis Report</h1>
+</p>
+
+<table border="1" cellspacing="0" cellpadding="2" class="param">
+<tr bgcolor="grey">
+	<th>Report</th>
+	<th>Total Count</th>
+	<th>Pass Count</th>
+	<th>Fail Count</th>
+</tr>
+<tr>
+	<td><a href="file://localhost$report1">$report1</a></td>
+	<td>$report1.totalCount</td>
+	<td>$report1.passCount</td>
+	<td>$report1.failCount</td>
+</tr>
+<tr>
+	<td><a href="file://localhost$report2">$report2</a></td>
+	<td>$report2.totalCount</td>
+	<td>$report2.passCount</td>
+	<td>$report2.failCount</td>
+</tr>
+</table>
+
+<p>
+<h2>Conversion matrix</h2>
+</p>
+
+<table border="1" cellspacing="0" cellpadding="2" class="param">
+<tr bgcolor="grey">
+	<th><a href="file://localhost$report1">Previous Run</a></th>
+	<th><a href="file://localhost$report2">Current Run</a></th>
+</tr>
+<tr>
+	<td bgcolor="green" rowspan="2">$report1.passCount</td>
+	<td bgcolor="green"><a href="#passToPassList">$passToPassCount</a></td>
+</tr>
+<tr>
+	<td bgcolor="red"><a href="#passToFailList">$passToFailCount</a></td>
+</tr>
+<tr>
+	<td rowspan="2" bgcolor="red">$report1.failCount</td>
+	<td bgcolor="green"><a href="#failToPassList">$failToPassCount</a></td>
+</tr>
+<tr>
+	<td bgcolor="red"><a href="#failToFailList">$failToFailCount</a></td>
+</tr>
+</table>
+
+<p>
+<h4>Delta - pass to fail conversion list</h4>
+<span id="passToFailList">
+$passToFailList
+</span>
+<br>
+<a href="#top"><small>top</small></a>
+</p>
+
+<p>
+<h4>Delta - fail to pass conversion list</h4>
+<span id="failToPassList">
+$failToPassList
+</span>
+<br>
+<a href="#top"><small>top</small></a>
+</p>
+
+
+<p>
+<h4>List which remained passed in both runs</h4>
+<span id="passToPassList">
+$passToPassList
+</span>
+<br>
+<a href="#top"><small>top</small></a>
+</p>
+
+<p>
+<h4>List which remained failed in both runs</h4>
+<span id="failToFailList">
+$failToFailList
+</span>
+<br>
+<a href="#top"><small>top</small></a>
+</p>
+
+</body>
+</html>
+
+
+<!--
+
+$report1
+$report2
+
+$report1.totalCount
+$report1.passCount
+$report1.failCount
+
+$report2.totalCount
+$report2.passCount
+$report2.failCount
+
+$passToPassCount
+$passToFailCount
+$failToFailCount
+$failToPassCount
+
+$passToFailList
+$failToPassList
+$passToPassList
+$failToFailList
+
+-->

@@ -1,0 +1,57 @@
+========================================================
+Starting to test for : DDBuilderUrlTemplate1Type0.properties
+There are 4 urls to test!
+http://search.yahoo.com/search?p=ae+shows____search.yahoo.com,,ae shows,,
+http://search.yahoo.com/search?p=animated+movies____search.yahoo.com,,animated movies,,
+http://search.yahoo.com/search?p=facebook____search.yahoo.com,,facebook,,
+http://search.yahoo.com/search?p=facebook+boo____search.yahoo.com,,facebook boo,,
+4805 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1372] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+4806 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1372] Ignoring the following declarations in this rule.
+4807 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1712] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+4807 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1712] Ignoring the following declarations in this rule.
+4808 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1798] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+4808 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1798] Ignoring the following declarations in this rule.
+4809 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1838] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+4809 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1838] Ignoring the following declarations in this rule.
+4814 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:2644] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+4814 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:2644] Ignoring the following declarations in this rule.
+4818 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:3394] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+4818 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:3394] Ignoring the following declarations in this rule.
+ERROR : XPATH of DD - //div[@class='tt t-001 t1 res sc sccs']//a[@class='yschttl'] - is not present in the response. May be DD is not triggered
+Executed job - 4
+Reporting for job - 4
+5144 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1372] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+5145 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1372] Ignoring the following declarations in this rule.
+5146 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1712] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+5146 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1712] Ignoring the following declarations in this rule.
+5147 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1798] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+5147 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1798] Ignoring the following declarations in this rule.
+5148 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1838] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+5148 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1838] Ignoring the following declarations in this rule.
+5158 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:3972] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+5158 [pool-2-thread-2] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:3972] Ignoring the following declarations in this rule.
+ERROR : XPATH of DD - //div[@class='tt t-001 t1 res sc sccs']//a[@class='yschttl'] - is not present in the response. May be DD is not triggered
+Executed job - 5
+Reporting for job - 5
+6519 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:1736] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+6520 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:1736] Ignoring the following declarations in this rule.
+6529 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:2076] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+6529 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:2076] Ignoring the following declarations in this rule.
+6531 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:2162] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+6531 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:2162] Ignoring the following declarations in this rule.
+6531 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:2202] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+6532 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:2202] Ignoring the following declarations in this rule.
+6535 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:2753] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+6535 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:2753] Ignoring the following declarations in this rule.
+6623 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:4889] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+6623 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:4889] Ignoring the following declarations in this rule.
+6638 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 39 - CSS error: [1:5639] Error in style rule. Invalid token "*". Was expecting one of: <S>, "}", ";", <IDENT>.
+6638 [pool-2-thread-1] WARN  com.gargoylesoftware.htmlunit.DefaultCssErrorHandler  DefaultCssErrorHandler.java 53 - CSS warning: [1:5639] Ignoring the following declarations in this rule.
+ERROR : XPATH of DD - //div[@class='tt t-001 t1 res sc sccs']//a[@class='yschttl'] - is not present in the response. May be DD is not triggered
+Executed job - 7
+Reporting for job - 7
+ERROR : XPATH of DD - //div[@class='tt t-001 t1 res sc sccs']//a[@class='yschttl'] - is not present in the response. May be DD is not triggered
+Executed job - 6
+Reporting for job - 6
+Logging in : /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate2_2012_02_02_13_16_13/Report.txt
+Snapshots in /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate2_2012_02_02_13_16_13/failedQueries & /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate2_2012_02_02_13_16_13/passedQueries

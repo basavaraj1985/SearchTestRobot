@@ -1,0 +1,14 @@
+========================================================
+Starting to test for : DDBuilderUrlTemplate3.properties
+There are 3 urls to test!
+http://search.yahoo.com/search?p=dear+blank+please+blank____search.yahoo.com,,dear blank please blank,,
+http://search.yahoo.com/search?p=castle+Alexis+Castle____search.yahoo.com,,castle Alexis Castle,,
+http://search.yahoo.com/search?p=national+geographic+travel+photos____search.yahoo.com,,national geographic travel photos,,
+Executed job - 10
+Reporting for job - 10
+Executed job - 11
+Reporting for job - 11
+Executed job - 12
+Reporting for job - 12
+Logging in : /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate4_2012_02_02_13_16_13/Report.txt
+Snapshots in /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate4_2012_02_02_13_16_13/failedQueries & /Users/basavar/My Applications/MyWorkspace/SearchTestRobot/./Reports/Feb2012/DDBuilderReports/DDBuilderUrlTemplate4_2012_02_02_13_16_13/passedQueries
